@@ -1,7 +1,6 @@
 # Open Metaverse Interoperability Group (OMI)
-<a href="https://project-types.github.io/#club">
-  <img src="https://img.shields.io/badge/project%20type-club-ff69b4" alt="Club Badge"/> 
-</a>
+[![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/NJtT9grz5E)
 
 The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals looking to work towards this common goal. Aside from technical work, OMI aims to create a community of artists, creators, and developers to discuss and explore concepts surrounding the design and development of virtual worlds.
 
