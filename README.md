@@ -25,10 +25,10 @@ Additional meeting info TBD. [Join our Discord](https://discord.gg/NJtT9grz5E) o
 
 ## Past Meetings
 
-- Meeting 1 
+- Meeting 1 (4/11/2021)
   - [Recording](https://www.youtube.com/watch?v=x3mFHxv9CNQ)
   - [Notes](https://hackmd.io/@XR/omi-1)
-- Meeting 2 (4/24/21)
+- Meeting 2 (4/24/2021)
   - [Recording](https://www.youtube.com/watch?v=dX8mWYJXXVc)
   - [Notes](https://hackmd.io/X-PXFWupQOm2frqAccgybA)
 
