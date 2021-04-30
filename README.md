@@ -21,7 +21,7 @@ Our next meeting will be a two part workshop Wednesday 5/5/21 at 6AM PDT and 6PM
 
 In these two workshop sessions we hope to establish the group's [OKRs](https://en.wikipedia.org/wiki/OKR) and from them, our scope of work and mission statement. We encourage everyone to join one or both of these sessions.
 
-Additional meeting info TBD. [Join our Discord](https://discord.gg/NJtT9grz5E) or [follow our Twitter account](https://twitter.com/open_metaverse) to get notified when we have the meeting link availiable.
+Additional meeting info TBD. [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified when we have the meeting link availiable.
 
 ## Past Meetings
 
