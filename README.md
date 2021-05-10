@@ -13,6 +13,8 @@ We recently formed a [W3C Community Group](https://www.w3.org/community/about/) 
 
 To become a member of the W3C Metaverse Interoperability Community Group, you can [join here](https://www.w3.org/community/metaverse-interop/).
 
+## How to get involved 
+
 Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E) 
 
 ## Meetings
