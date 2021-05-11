@@ -15,14 +15,14 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 
 ## Next Steps
 
-Click on any of these links to contribute to their assoiated Github Discussions:
+Click on any of these links to contribute to their assoiated Github Discussions / Issues:
 
-- Define our key results for these objectives
-- Appoint one or more chairs of our W3C Community Group
-- Write up our community group charter
-- OMI aims to be more than a standard body. We would like to form a community arm of our organization and determine a leadership structure for it
-- Define our Scope of Work
-- Defining incentives for participation in OMI
+- [Define key results for each of our objectives]()
+- [Appoint one or more chairs for our W3C Community Group](https://github.com/omigroup/OMI/discussions/17)
+- [Write up our community group charter]()
+- [Determine what OMI's responsibilities are outside of standards/protocols]()
+- [Define our scope of work]()
+- [Explore incentives for participation in OMI]()
 
 ## How To Get Involved
 
@@ -42,6 +42,9 @@ Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E)
 ## Meetings
 
 We have weekly meetings on Wednesdays at 9:00 AM Pacific Time.
+
+- Meeting 3 (5/12/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/27)
 
 [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
