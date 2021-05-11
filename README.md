@@ -41,9 +41,9 @@ Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E)
 
 ## Meetings
 
-We have weekly meetings on Wednesdays at 9:00 AM Pacific Time.
+We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
 
-Our Next Meeting:
+Next Meeting info:
 
 - Weekly Meeting 3 (5/12/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/27)
