@@ -43,17 +43,19 @@ Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E)
 
 We have weekly meetings on Wednesdays at 9:00 AM Pacific Time.
 
-- Meeting 3 (5/12/2021 9:00 AM PDT)
+Our Next Meeting:
+
+- Weekly Meeting 3 (5/12/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/27)
 
 [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
 ## Past Meetings
 
-- Meeting 1 (4/11/2021)
+- Weekly Meeting 1 (4/11/2021)
   - [Recording](https://www.youtube.com/watch?v=x3mFHxv9CNQ)
   - [Notes](https://hackmd.io/@XR/omi-1)
-- Meeting 2 (4/24/2021)
+- Weekly Meeting 2 (4/24/2021)
   - [Recording](https://www.youtube.com/watch?v=dX8mWYJXXVc)
   - [Notes](https://hackmd.io/X-PXFWupQOm2frqAccgybA)
 - OKR Workshop (5/5/2021)
