@@ -17,7 +17,7 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 
 Click on any of these links to contribute to their assoiated Github Discussions / Issues:
 
-- [Define key results for each of our objectives]()
+- [Define key results for each of our objectives](https://github.com/omigroup/OMI/discussions/10)
 - [Appoint one or more chairs for our W3C Community Group](https://github.com/omigroup/OMI/discussions/17)
 - [Write up our community group charter]()
 - [Determine what OMI's responsibilities are outside of standards/protocols]()
