@@ -19,10 +19,10 @@ Click on any of these links to contribute to their assoiated Github Discussions 
 
 - [Define key results for each of our objectives](https://github.com/omigroup/OMI/discussions/10)
 - [Appoint one or more chairs for our W3C Community Group](https://github.com/omigroup/OMI/discussions/17)
-- [Write up our community group charter]()
-- [Determine what OMI's responsibilities are outside of standards/protocols]()
-- [Define our scope of work]()
-- [Explore incentives for participation in OMI]()
+- [Define our scope of work](https://github.com/omigroup/OMI/discussions/28)
+- [Determine what OMI's responsibilities are outside of standards/protocols](https://github.com/omigroup/OMI/discussions/31)
+- [Write up our community group charter](https://github.com/omigroup/OMI/discussions/30)
+- [Explore incentives for participation in OMI](https://github.com/omigroup/OMI/discussions/32)
 
 ## How To Get Involved
 
