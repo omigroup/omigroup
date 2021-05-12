@@ -44,7 +44,7 @@ Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E)
 We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
 
 Next Meeting info:
-- OMI Community / Incentives Forum (5/14/2021 9:00 AM PDT)
+- OMI Community / Incentives Forum (5/14/2021 12:00 PM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/35)
 - Weekly Meeting 4 (5/19/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/34)
