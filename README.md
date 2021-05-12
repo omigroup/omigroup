@@ -44,9 +44,8 @@ Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E)
 We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
 
 Next Meeting info:
-
-- Weekly Meeting 3 (5/12/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/27)
+- Weekly Meeting 4 (5/19/2021 9:00 AM PDT)
+  - - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/34)
 
 [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
@@ -60,6 +59,8 @@ Next Meeting info:
   - [Notes](https://hackmd.io/X-PXFWupQOm2frqAccgybA)
 - OKR Workshop (5/5/2021)
   - [Workshop FigJam](https://www.figma.com/file/HcSUQRYUHjTcVyGIA0fu1u/OMi-OKR-Workshop-Part-II?node-id=281%3A610)
+- Weekly Meeting 3 (5/12/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/27)
 
 ## Areas of Exploration
 
