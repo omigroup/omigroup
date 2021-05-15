@@ -28,8 +28,9 @@ Click on any of these links to contribute to their assoiated Github Discussions 
 
 Are you passionate about the metaverse? Join us! 
 
-Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or propose new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMI/discussions), and come to [one of our meetings](#meetings).
+Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMI/discussions), and come to [one of our meetings](#meetings).
 
+If you'd like to submit a proposal for a specification or other work item. Please see the [PROCESS](./PROCESS) document.
 
 ## W3C Metaverse Interoperability Community Group
 
