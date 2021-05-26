@@ -7,11 +7,11 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 
 ## OMI Core Values
 
-- We collaborate to make the metaverse more human.
-- We incrementally deliver value with intent.
-- We are creating a cooperative, sustainable culture of innovation.
+- We collaborate, driven by research, privacy and accessibility, to make the metaverse more human.
+- We work incrementally, iteratively, and with intent. 
+- We are creating a cooperative, sustainable culture of innovation. 
 - We empower the people making the metaverse.
-- We must achieve resiliency through diversity, and freedom of choice.
+- We must cultivate resiliency by championing diversity, and freedom of choice.
 
 ![CORE-VALUES](https://user-images.githubusercontent.com/63426722/119735871-f871d880-be4a-11eb-9594-8bf8d00c0c72.png)
 
