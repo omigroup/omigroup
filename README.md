@@ -5,13 +5,16 @@
 
 The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals working towards this common goal. Aside from technical work, OMI aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
 
-## OMI Objectives
+## OMI Core Values
 
 - We collaborate to make the metaverse more human.
 - We empower the people making the metaverse.
 - We are creating a cooperative, sustainable culture of innovation.
 - We incrementally deliver value with intent.
 - We must achieve resiliency through diversity, and freedom of choice.
+
+![image](https://user-images.githubusercontent.com/63426722/119735076-d1ff6d80-be49-11eb-81a6-1d2584f6435b.png)
+
 
 ## Next Steps
 
