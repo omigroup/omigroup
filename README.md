@@ -13,7 +13,7 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 - We incrementally deliver value with intent.
 - We must achieve resiliency through diversity, and freedom of choice.
 
-![image](https://user-images.githubusercontent.com/63426722/119735076-d1ff6d80-be49-11eb-81a6-1d2584f6435b.png)
+![CORE-VALUES](https://user-images.githubusercontent.com/63426722/119735871-f871d880-be4a-11eb-9594-8bf8d00c0c72.png)
 
 
 ## Next Steps
