@@ -75,7 +75,7 @@ Next Meeting info:
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/38)
 - Weekly Meeting 6 (6/2/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/41)
-  - [Notes](https://hackmd.io/@mrmetaverse/omi-060221)
+  - [Notes](https://hackmd.io/@robertlong/omi-meeting-6)
   - [Recording](https://www.youtube.com/watch?v=YXPhfOybq4o)
 
 ## Areas of Exploration
