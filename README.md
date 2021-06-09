@@ -49,8 +49,8 @@ We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-
 
 Next Meeting info:
 
-- Weekly Meeting 7 (6/9/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/43)
+- Weekly Meeting 8 (6/16/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/46)
 
 [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
@@ -77,22 +77,21 @@ Next Meeting info:
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/41)
   - [Notes](https://hackmd.io/@robertlong/omi-meeting-6)
   - [Recording](https://www.youtube.com/watch?v=YXPhfOybq4o)
+- Weekly Meeting 7 (6/9/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/43)
+  - [Notes](https://hackmd.io/@robertlong/omi-meeting-7)
+  - [Recording]()
 
 ## Areas of Exploration
 
 While we don't have an official scope of work for OMI set yet, here are a few areas we are looking into.
 
-### Identity
-
-### Friends List / Social Graph
-
-### Inventory / Trading Virtual Items
-
-### Avatars
-
-### 3D Content
-
-### Portable Scripted Objects / Scenes
+- Identity
+- Friends List / Social Graph
+- Inventory / Trading Virtual Items
+- Avatars
+- 3D Content
+- Portable Scripted Objects / Scenes
 
 ## FAQ
 
