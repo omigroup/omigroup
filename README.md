@@ -80,7 +80,7 @@ Next Meeting info:
 - Weekly Meeting 7 (6/9/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/43)
   - [Notes](https://hackmd.io/@robertlong/omi-meeting-7)
-  - [Recording]()
+  - [Recording](https://www.youtube.com/watch?v=wNQhgzhRdBU)
 
 ## Areas of Exploration
 
