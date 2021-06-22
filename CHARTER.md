@@ -28,7 +28,7 @@ The scope of work for this group includes topics related to interoperable worlds
 - Virtual world URIs
 - Virtual world metadata discovery
 - Nested experiences within worlds
-- Portals between platforms, worlds and experiences
+- Portals and windows into platforms, worlds and experiences
 - Identity 
 - Portable avatars
 - Asset portability
@@ -99,7 +99,7 @@ The group's decision making process is outlined in the separate [process documen
 
 ## Chair Selection
 
-TODO: Outline current chair selection process and increasing chair term durations.
+The group will appoint 1-3 chairs at each election. Chairs may run for re-election as many times as they wish. The initial chair term length is set at 3 months and will double after each election with a cap at 1 year. Chair selection will be decided by consensus voting. Abstentions will not count against the consensus vote.
 
 ## Amendments to this Charter
 
