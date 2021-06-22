@@ -37,11 +37,14 @@ If you'd like to submit a proposal for a specification or other work item. Pleas
 
 ## W3C Metaverse Interoperability Community Group
 
-We recently formed a [W3C Community Group](https://www.w3.org/community/about/) to help structure our standards work and provide ourselves a proper IP protection framework. We are in the process of electing chairs. If you'd like to nominate yourself or others, please do so in [this thread](https://github.com/omigroup/OMI/discussions/17).
+We recently formed a [W3C Community Group](https://www.w3.org/community/about/) to help structure our standards work and provide ourselves a proper IP protection framework.
 
 To become a member of the W3C Metaverse Interoperability Community Group, you can [join here](https://www.w3.org/community/metaverse-interop/).
 
-Want to get involved? [join our Discord](https://discord.gg/NJtT9grz5E)
+### Community Group Chairs
+- [Robert Long](https://twitter.com/arobertlong)
+- [Jesse Alton](https://twitter.com/mrmetaverse)
+- [Evo Heyning](https://twitter.com/amoration)
 
 ## Meetings
 
