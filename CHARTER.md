@@ -99,7 +99,7 @@ The group's decision making process is outlined in the separate [process documen
 
 ## Chair Selection
 
-The group will appoint 1-3 chairs at each election. Chairs may run for re-election as many times as they wish. The initial chair term length is set at 3 months and will double after each election with a cap at 1 year. Chair selection will be decided by consensus voting. Abstentions will not count against the consensus vote.
+The group will appoint 1-3 chairs at each election. There are no limits on how many times a chair can run for re-election. The initial chair term length for this group is set at 3 months and will double after each election with a cap at 1 year. Chair selection will be decided by [consensus voting](https://en.wikipedia.org/wiki/Consensus_decision-making). Abstentions will not count against the consensus vote.
 
 ## Amendments to this Charter
 
