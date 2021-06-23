@@ -1,7 +1,7 @@
 # W3C Metaverse Interoperability Community Group Charter
 
-- This Charter: {TBD: URI}
-- Previous Charter: {TBD: URI}
+- This Charter: [Link](https://github.com/omigroup/OMI/blob/c379afd142433dc482df226312e8f3d4ef3cf005/CHARTER.md)
+- Previous Charter: [Link](https://github.com/omigroup/OMI/blob/c379afd142433dc482df226312e8f3d4ef3cf005/CHARTER.md)
 - Start Date: 6/23/2021
 - Last Modifed: 6/23/2021
 
