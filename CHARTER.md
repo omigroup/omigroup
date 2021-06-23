@@ -1,11 +1,9 @@
-# [DRAFT] W3C Metaverse Interoperability Community Group Charter
-
-*This charter is work in progress. To submit feedback, please use [Github Issues](https://github.com/omigroup/OMI/issues) where the charter is being developed.*
+# W3C Metaverse Interoperability Community Group Charter
 
 - This Charter: {TBD: URI}
 - Previous Charter: {TBD: URI}
-- Start Date: {TBD: date the charter takes effect, estimate if not known. Update this if the charter is revised and include a link to the previous version of the charter.}
-- Last Modifed: {TBD: If the system does not automatically provide information about the date of the last modification, it can be useful to include that in the charter.}
+- Start Date: 6/23/2021
+- Last Modifed: 6/23/2021
 
 ## Goals
 
