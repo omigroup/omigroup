@@ -33,13 +33,15 @@ Are you passionate about the metaverse? Join us!
 
 Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMI/discussions), and come to [one of our meetings](#meetings).
 
-If you'd like to submit a proposal for a specification or other work item. Please see the [PROCESS](./PROCESS) document.
+If you'd like to submit a proposal for a specification or other work item. Please see the [PROCESS](./PROCESS.md) document.
 
 ## W3C Metaverse Interoperability Community Group
 
 We recently formed a [W3C Community Group](https://www.w3.org/community/about/) to help structure our standards work and provide ourselves a proper IP protection framework.
 
 To become a member of the W3C Metaverse Interoperability Community Group, you can [join here](https://www.w3.org/community/metaverse-interop/).
+
+### [Charter](./CHARTER.md)
 
 ### Community Group Chairs
 - [Robert Long](https://twitter.com/arobertlong)
