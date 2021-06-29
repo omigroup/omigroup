@@ -88,6 +88,7 @@ Next Meeting info:
   - [Recording](https://www.youtube.com/watch?v=wNQhgzhRdBU)
 - Weekly Meeting 8 (6/16/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/46)
+  - [Notes](https://hackmd.io/@robertlong/omi-meeting-8)
 - Weekly Meeting 9 (6/22/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/51)
 
