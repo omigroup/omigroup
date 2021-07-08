@@ -54,8 +54,8 @@ We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-
 
 Next Meeting info:
 
-- Weekly Meeting 11 (7/7/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/54)
+- Weekly Meeting 12 (7/14/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/60)
 
 [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
@@ -98,6 +98,8 @@ Next Meeting info:
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/52)
   - [Notes](https://hackmd.io/@robertlong/omi-meeting-10)
   - [Recording](https://www.youtube.com/watch?v=tLLzEUW0iV8)
+- Weekly Meeting 11 (7/7/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/54)
 
 ## Areas of Exploration
 
