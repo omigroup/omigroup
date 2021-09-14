@@ -54,8 +54,8 @@ We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-
 
 Next Meeting info:
 
-- Weekly Meeting 19 (9/1/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/82)
+- Weekly Meeting 21 (9/14/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/91)
 
 [Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
