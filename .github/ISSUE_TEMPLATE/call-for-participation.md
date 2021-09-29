@@ -2,7 +2,7 @@
 name: Call for Participation
 about: Propose a new community group.
 title: ''
-labels: proposal,call-for-participation
+labels: proposal,Call for Participation
 assignees: ''
 ---
 
