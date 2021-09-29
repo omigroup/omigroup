@@ -2,7 +2,7 @@
 name: Specification Proposal
 about: Propose a technical specification.
 title: ''
-labels: proposal,spec-proposal
+labels: proposal
 assignees: ''
 ---
 
