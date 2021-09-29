@@ -2,7 +2,7 @@
 name: Work Item Proposal
 about: Propose other non-specification work items.
 title: ''
-labels: proposal,general-proposal
+labels: proposal
 assignees: ''
 ---
 
