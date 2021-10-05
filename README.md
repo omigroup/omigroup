@@ -118,6 +118,8 @@ Next Meeting info:
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/82)
 - Weekly Meeting 20 (9/8/2021 9:00 AM PDT)
   - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/86)
+- Weekly Meeting 23 (10/6/2021 9:00 AM PDT)
+  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/103)
  
 
 ## Areas of Exploration
