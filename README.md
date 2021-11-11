@@ -15,6 +15,8 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 
 ![CORE-VALUES](https://user-images.githubusercontent.com/63426722/119735871-f871d880-be4a-11eb-9594-8bf8d00c0c72.png)
 
+## Our Vision
+>## We bolster the metaverse as an open and interoperable resource for anyone, inspired by the collaborative efforts of the community.
 
 ## Next Steps
 
