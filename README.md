@@ -55,75 +55,9 @@ To become a member of the W3C Metaverse Interoperability Community Group, you ca
 
 We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
 
-Next Meeting info:
+Agendas for future and past meetings can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
 
-- Weekly Meeting 32 (12/01/2021 9:00 AM PDT / 17:00 UTC)
-  - [Agenda/Discussion](https://github.com/omigroup/omigroup/discussions/132)
-
-[Join our Discord](https://discord.gg/NJtT9grz5E), [follow our Twitter account](https://twitter.com/open_metaverse), or [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
-
-## Past Meetings
-
-- Weekly Meeting 1 (4/11/2021)
-  - [Recording](https://www.youtube.com/watch?v=x3mFHxv9CNQ)
-  - [Notes](https://hackmd.io/@XR/omi-1)
-- Weekly Meeting 2 (4/24/2021)
-  - [Recording](https://www.youtube.com/watch?v=dX8mWYJXXVc)
-  - [Notes](https://hackmd.io/X-PXFWupQOm2frqAccgybA)
-- OKR Workshop (5/5/2021)
-  - [Workshop FigJam](https://www.figma.com/file/HcSUQRYUHjTcVyGIA0fu1u/OMi-OKR-Workshop-Part-II?node-id=281%3A610)
-- Weekly Meeting 3 (5/12/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/27)
-  - [Recording](https://www.youtube.com/watch?v=UYg5Tz_eHls)
-- OMI Community / Incentives Forum (5/14/2021 12:00 PM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/35)
-- Weekly Meeting 4 (5/19/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/34)
-- Weekly Meeting 5 (5/26/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/38)
-- Weekly Meeting 6 (6/2/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/41)
-  - [Notes](https://hackmd.io/@robertlong/omi-meeting-6)
-  - [Recording](https://www.youtube.com/watch?v=YXPhfOybq4o)
-- Weekly Meeting 7 (6/9/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/43)
-  - [Notes](https://hackmd.io/@robertlong/omi-meeting-7)
-  - [Recording](https://www.youtube.com/watch?v=wNQhgzhRdBU)
-- Weekly Meeting 8 (6/16/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/46)
-  - [Notes](https://hackmd.io/@robertlong/omi-meeting-8)
-  - [Recording](https://www.youtube.com/watch?v=HUa7BDrDv9o)
-- Weekly Meeting 9 (6/23/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/51)
-  - [Notes](https://hackmd.io/@robertlong/omi-meeting-9)
-  - [Recording](https://www.youtube.com/watch?v=gODst6r_wL0)
-- Weekly Meeting 10 (6/30/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/52)
-  - [Notes](https://hackmd.io/@robertlong/omi-meeting-10)
-  - [Recording](https://www.youtube.com/watch?v=tLLzEUW0iV8)
-- Weekly Meeting 11 (7/7/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/54)
-- Weekly Meeting 12 (7/14/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/60)
-- Weekly Meeting 13 (7/21/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/65)
-- Weekly Meeting 14 (7/28/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/66)
-- Weekly Meeting 15 (8/04/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/71)
-- Weekly Meeting 16 (8/11/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/74)
-- Weekly Meeting 17 (8/18/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/75)
-- Weekly Meeting 18 (8/25/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/79)
-- Weekly Meeting 19 (9/1/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/82)
-- Weekly Meeting 20 (9/8/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/86)
-- Weekly Meeting 23 (10/6/2021 9:00 AM PDT)
-  - [Agenda/Discussion](https://github.com/omigroup/OMI/discussions/103)
- 
+You can also [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
 
 ## Areas of Exploration
 
