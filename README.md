@@ -70,6 +70,25 @@ While we don't have an official scope of work for OMI set yet, here are a few ar
 - 3D Content
 - Portable Scripted Objects / Scenes
 
+## Working groups 
+
+We operate in working groups, to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. Our working groups have their own working agreements, with meeting times decided by those who attend the working groups. Backlogs, discussions, and agile ceremonies are decided on at the group level, as we have contributors from all around the World. The best way to get involved is to reach out to the working group directly. Our existing working groups are on various levels of maturity. Some have been working for months and have working agreements in place, and take detailed notes each week. Others meet more ad-hoc or are brand new, and may not have formalities documented yet. You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively. 
+
+
+:calendar: [Add the OMI event calendar to your google calendar](https://calendar.google.com/calendar/u/4?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+- [OMI Weekly Meeting](https://github.com/omigroup/omigroup/discussions) - Every Wednesday 17:00UTC - 18:00 UTC (12pm - 1pm ET) (contacts: antpb for agenda, mrmetaverse for questions)
+- [Website Working Group](https://github.com/omigroup/website) - Meets every other Tuesday at 23:00UTC - 01:00 UTC (6pm - 8pm ET) (contacts: Shadow and Echoparadigm)
+- [gLTF Extensions Working Group](https://github.com/omigroup/gltf-extensions) - Meets every Thursday at 22:30UTC - 23:30UTC (5:30 - 6:30pm ET) (contact Fire or Robert)
+- [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - New group, co-creating our digital being. Meeting on Saturday January 8th at 20:30UTC - 21:30UTC (3:30 - 4:30 pm ET) (contact Nova)
+- [WASM Working group](https://github.com/omigroup/omi-wasm-group) - New group (contact Adam Frisbee[lead], or humbletim or Lyuma or Robert) 
+- Interoperator working group - No regular meeting yet, but the group is forming
+- Fiscal Development working group - No regular meeting yet, but to get involved please contact Evo. 
+- Metamapping Initiative - No regular meeting yet, but to get involved please contact Evo. 
+- Metaverse Traversal - No regular meeting yet, but to get involved please contat Evo. 
+
+- any others?
+
 ## FAQ
 
 ### Are you really trying to build the Metaverse?
