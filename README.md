@@ -86,7 +86,7 @@ We operate in working groups, to divide work based on themes of interest and ava
 - Fiscal Development working group - No regular meeting yet, but to get involved please contact Evo. 
 - Metamapping Initiative - No regular meeting yet, but to get involved please contact Evo. 
 - Metaverse Traversal - No regular meeting yet, but to get involved please contat Evo. 
-- OMI Github [Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543): Meets the third Tuesday of every month at 22:05 - 22:50 UTC (contact Jesse @mrmetaverse)
+- OMI Github [Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543): Meets the fourth Tuesday of every month at 22:05 - 22:50 UTC (contact Jesse @mrmetaverse)
 
 - any others?
 
