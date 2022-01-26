@@ -34,7 +34,7 @@ Click on any of these links to contribute to their associated Github Discussions
 
 Are you passionate about the metaverse? Join us! 
 
-Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMI/discussions), and come to [one of our meetings](#meetings). We have a shared [google calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for tracking upcoming events. 
+Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMI/discussions), and come to [one of our meetings](#meetings). We have a shared [google calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for tracking upcoming events. Want to know more about how we use github to track and manage our work? Check out [this OMI Github Strategy Outline](https://hackmd.io/msSrKU3NQv2QO8_aU5IhHQ?view). 
 
 If you'd like to submit a proposal for a specification or other work item. Please see the [PROCESS](./PROCESS.md) document.
 
