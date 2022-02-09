@@ -30,7 +30,7 @@ Specifications should be refined until the editors determine they are ready for 
 
 ### Approval
 
-Work item editors may submit their draft spec / report for approval at any weekly meeting. Community members can vote if they have attended 2 out of 3 of the last weekly meetings (including the current meeting).
+Work item editors may submit their draft spec / report for approval at any weekly meeting. Community members can vote if they have attended 2 out of 3 of the last weekly meetings (including the current meeting). For votes held during the general OMI meeting, attendance of both OMI weekly meetings or any OMI working group meetings will be counted.
 
 If the group does not approve a draft, it goes back to the editors for revision.
 
