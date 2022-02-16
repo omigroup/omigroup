@@ -43,7 +43,11 @@ Community events, working collaborations and resources for implementation, and t
 
 ### Specifications
 
-No specifications will be produced under the current charter.
+The Metaverse Interoperability Group will produce specifications for:
+- 3D Formats within the [glTF Extensions sub-group](https://github.com/omigroup/gltf-extensions)
+- WebAssembly scene graph APIs within the [WASM sub-group](https://github.com/omigroup/omi-wasm-group)
+
+[Substantive changes to specifications](https://www.w3.org/2021/Process-20211102/#correction-classes) in these groups will require members to sign the [W3C Contributor License Agreement](https://www.w3.org/community/about/process/cla/).
 
 ### Non-Normative Reports
 
