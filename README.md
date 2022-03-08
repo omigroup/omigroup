@@ -46,7 +46,7 @@ We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-
 
 Agendas for future and past meetings can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
 
-You can also [add our calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to get notified about OMI meetings and events.
+You can also [add our calendar](#calendar) to get notified about OMI meetings and events.
 
 ## Areas of Exploration
 
@@ -63,9 +63,6 @@ While we don't have an official scope of work for OMI set yet, here are a few ar
 
 We operate in working groups, to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. Our working groups have their own working agreements, with meeting times decided by those who attend the working groups. Backlogs, discussions, and agile ceremonies are decided on at the group level, as we have contributors from all around the World. The best way to get involved is to reach out to the working group directly. Our existing working groups are on various levels of maturity. Some have been working for months and have working agreements in place, and take detailed notes each week. Others meet more ad-hoc or are brand new, and may not have formalities documented yet. You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively. 
 
-
-:calendar: [Add the OMI event calendar to your google calendar](https://calendar.google.com/calendar/u/4?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
 - [OMI Weekly Meeting](https://github.com/omigroup/omigroup/discussions) - Every Wednesday 17:00UTC - 18:00 UTC (12pm - 1pm ET) (contacts: antpb for agenda, mrmetaverse for questions)
 - [Website Working Group](https://github.com/omigroup/website) - Meets every other Tuesday at 23:00UTC - 01:00 UTC (6pm - 8pm ET) (contacts: Shadow and Echoparadigm)
 - [gLTF Extensions Working Group](https://github.com/omigroup/gltf-extensions) - Meets every Thursday at 22:30UTC - 23:30UTC (5:30 - 6:30pm ET) (contact Fire or Robert)
@@ -78,6 +75,13 @@ We operate in working groups, to divide work based on themes of interest and ava
 - OMI Github [Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543): Meets the fourth Tuesday of every month at 22:05 - 22:50 UTC (contact Jesse @mrmetaverse)
 
 - any others?
+
+### Calendar
+
+[:calendar: View the OMI event calendar](https://calendar.google.com/calendar/embed?src=c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com).
+
+You can subscribe with [Google Calendar](https://calendar.google.com/calendar/u/4?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), or using this calendar URL: 
+`https://calendar.google.com/calendar/ical/c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com/public/basic.ics`
 
 ## FAQ
 
