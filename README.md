@@ -43,7 +43,7 @@ To become a member of the W3C Metaverse Interoperability Community Group, you ca
 
 ## Meetings
 
-We have weekly meetings on Wednesdays at 9:00 AM Pacific Time in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
+We have weekly meetings on Wednesdays at 14:00 UTC (9:00 AM Pacific Time) in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
 
 Agendas for future and past meetings can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
 
