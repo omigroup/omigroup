@@ -65,17 +65,15 @@ While we don't have an official scope of work for OMI set yet, here are a few ar
 We operate in working groups, to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. Our working groups have their own working agreements, with meeting times decided by those who attend the working groups. Backlogs, discussions, and agile ceremonies are decided on at the group level, as we have contributors from all around the World. The best way to get involved is to reach out to the working group directly. Our existing working groups are on various levels of maturity. Some have been working for months and have working agreements in place, and take detailed notes each week. Others meet more ad-hoc or are brand new, and may not have formalities documented yet. You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively. 
 
 - [OMI Weekly Meeting](https://github.com/omigroup/omigroup/discussions) - Every Wednesday 17:00UTC - 18:00 UTC (12pm - 1pm ET) (contacts: antpb for agenda, mrmetaverse for questions)
-- [Website Working Group](https://github.com/omigroup/website) - Meets every other Tuesday at 23:00UTC - 01:00 UTC (6pm - 8pm ET) (contacts: Shadow and Echoparadigm)
-- [gLTF Extensions Working Group](https://github.com/omigroup/gltf-extensions) - Meets every Thursday at 22:30UTC - 23:30UTC (5:30 - 6:30pm ET) (contact Fire or Robert)
-- [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - New group, co-creating our digital being. Meeting on Saturdays at 20:00UTC - 21:00UTC (3:00 - 4:00 pm ET) (contact Jeana or Nova)
-- [Scripting Working group](https://github.com/omigroup/omi-wasm-group) - formerly the WASM group, this group Meets every Tuesday at 1600 UTC (contact Adam Frisbee, humbletim, Lyuma or Robert) 
-- [Interoperator working group](https://github.com/omigroup/omigroup/issues/143) - This is an ad-hoc group, dedicated to exploring potential community relationships and partnerships. This group meets on the last Friday of the month for the time being, beginning Friday 2/25/22 at 17:00 UTC. 
+- [Website Working Group](https://github.com/omigroup/website) - Meets every other Tuesday at 22:00UTC - 23:59 UTC (6pm - 8pm ET) (contacts: Shadow and Echoparadigm)
+- [gLTF Extensions Working Group](https://github.com/omigroup/gltf-extensions) - Meets every Thursday at 21:30UTC - 22:30UTC (5:30 - 6:30pm ET) (contact Fire or Robert)
+- [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. Meeting on Tuesdays at 23:00UTC - 23:30UTC (4:00pm PT) (contact Jeana or Nova)
+- [Scripting Working group](https://github.com/omigroup/omi-wasm-group) - formerly the WASM group, this group Meets every Tuesday at 1500 UTC (contact Adam Frisbee, humbletim, Lyuma or Robert) 
+- [Interoperator working group](https://github.com/omigroup/omigroup/issues/143) - This is an ad-hoc group, dedicated to exploring potential community relationships and partnerships. This group meets on the last Friday of the month for the time being.
 - Fiscal Development working group - No regular meeting yet, but to get involved please contact Evo. 
 - Metamapping Initiative - No regular meeting yet, but to get involved please contact Evo. 
 - Metaverse Traversal - No regular meeting yet, but to get involved please contat Evo. 
 - OMI Github [Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543): Meets the fourth Tuesday of every month at 22:05 - 22:50 UTC (contact Jesse @mrmetaverse)
-
-- any others?
 
 ### Calendar
 
