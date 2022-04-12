@@ -70,6 +70,7 @@ We operate in working groups, to divide work based on themes of interest and ava
 - [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. Meeting on Tuesdays at 23:00UTC - 23:30UTC (4:00pm PT) (contact Jeana or Nova)
 - [Scripting Working group](https://github.com/omigroup/omi-wasm-group) - formerly the WASM group, this group Meets every Tuesday at 1500 UTC (contact Adam Frisbee, humbletim, Lyuma or Robert) 
 - [Interoperator working group](https://github.com/omigroup/omigroup/issues/143) - This is an ad-hoc group, dedicated to exploring potential community relationships and partnerships. This group meets on the last Friday of the month for the time being.
+- [Content and Media Strategy Working Group](https://github.com/omigroup/media) - This is a new group dedicated to content strategy, and being intentional in how we communicate OMI efforts and bolster the Open Metaverse. Meeting on the second Tuesday every month at 15:30 - 16:30 UTC (24:00 Format)
 - Fiscal Development working group - No regular meeting yet, but to get involved please contact Evo. 
 - Metamapping Initiative - No regular meeting yet, but to get involved please contact Evo. 
 - Metaverse Traversal - No regular meeting yet, but to get involved please contat Evo. 
