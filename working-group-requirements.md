@@ -6,8 +6,8 @@ We operate in working groups, to divide work based on themes of interest and ava
 - submit a issue for review [proposing the working group](https://github.com/omigroup/omigroup/issues/new/choose). 
   - group must be voted on to start next steps
   - appoint a delegate or lead(s)
-- create repo omigroup/yournewgroup
-  - you can use this template [omigroup/working-group-template](https://github.com/omigroup/working-group-template)
+- Once approved an OMI admin will create a repo `omigroup/yournewgroup`
+  - They can use this template [omigroup/working-group-template](https://github.com/omigroup/working-group-template)
 - create basic readme with: What this group is, when you meet, how to get involved. 
 - create backlog in your repo for tracking potential work, active work, and reminders. This helps people get involved and work async in between meetings, and to ensure we call out blockers and don't lose sight of previous commitments (Assistance available to set this up) 
 - publish a link to the groups repo and their meeting times on the main [omigroup/omigroup](https://github.com/omigroup/omigroup) readme 
