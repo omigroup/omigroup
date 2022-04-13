@@ -76,6 +76,10 @@ We operate in working groups, to divide work based on themes of interest and ava
 - Metaverse Traversal - No regular meeting yet, but to get involved please contat Evo. 
 - OMI Github [Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543): Meets the fourth Tuesday of every month at 22:05 - 22:50 UTC (contact Jesse @mrmetaverse)
 
+### Requirements to form a working group 
+
+Interested in how working groups form and operate at OMI? Please see [WORKING-GROUP-MIN-REQUIREMENTS.md](./WORKING-GROUP-MIN-REQUIREMENTS.md)
+
 ### Calendar
 
 [:calendar: View the OMI event calendar](https://calendar.google.com/calendar/embed?src=c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com).
