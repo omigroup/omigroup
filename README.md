@@ -20,13 +20,15 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 ## Our Vision
 >## We bolster the metaverse as an open and interoperable resource for anyone, inspired by the collaborative efforts of the community.
 
-## How To Get Involved
+## How To Get Involved 👈
 
 Are you passionate about the metaverse? Join us! 
 
-Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMIgroup/discussions), and come to [one of our meetings](#meetings). We have a shared [google calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for tracking upcoming events. Want to know more about how we use github to track and manage our work? Check out [this OMI Github Strategy Outline](https://hackmd.io/msSrKU3NQv2QO8_aU5IhHQ?view). We manage meta-OMI tasks on the [omigroup/omigroup OMI General Tasks board](https://github.com/omigroup/omigroup/projects/1). We track all in-flight tickets across ALL of our working groups, on the org-wide omigroup [OMI Holistic Backlog](https://github.com/orgs/omigroup/projects/7/views/2).
+>## New to our Github? check out [ OMI Github Strategy Outline](https://hackmd.io/msSrKU3NQv2QO8_aU5IhHQ?view). 
 
-If you'd like to submit a proposal for a specification or other work item. Please see the [PROCESS](./PROCESS.md) document.
+Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMIgroup/discussions), and come to [one of our meetings](#meetings). We have a shared [google calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for tracking upcoming events. We manage meta-OMI tasks on the [omigroup/omigroup OMI General Tasks board](https://github.com/omigroup/omigroup/projects/1). We track all in-flight tickets across ALL of our working groups, on the org-wide omigroup [OMI Holistic Backlog](https://github.com/orgs/omigroup/projects/7/views/2).
+
+>## To submit a proposal for a specification, working group, event or other work item. Please see the [PROCESS](./PROCESS.md) document.
 
 ## W3C Metaverse Interoperability Community Group
 
