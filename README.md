@@ -40,12 +40,15 @@ To become a member of the W3C Metaverse Interoperability Community Group, you ca
 
 ### Community Group Chairs
 - [Robert Long](https://twitter.com/arobertlong)
-- [Jesse Alton](https://twitter.com/mrmetaverse)
 - [Evo Heyning](https://twitter.com/amoration)
+- [Jesse Alton](https://twitter.com/mrmetaverse)
+
+### Champions
+OMI has volunteer leads involved in a variety of ways across our community. Some are working group leads, others are evangelists of interoperability eager to help you connect dots. OMI Champions can be reached in discord with `@omi-champions` user role.
 
 ## Meetings
 
-We have weekly meetings on Wednesdays at 14:00 UTC (9:00 AM Pacific Time) in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
+We have weekly meetings on Wednesdays at 16:00 UTC (9:00 AM Pacific Time) in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
 
 Agendas for future and past meetings can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
 
@@ -64,12 +67,14 @@ While we don't have an official scope of work for OMI set yet, here are a few ar
 
 ## Working groups 
 
-We operate in working groups, to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. Our working groups have their own working agreements, with meeting times decided by those who attend the working groups. Backlogs, discussions, and agile ceremonies are decided on at the group level, as we have contributors from all around the World. The best way to get involved is to reach out to the working group directly. Our existing working groups are on various levels of maturity. Some have been working for months and have working agreements in place, and take detailed notes each week. Others meet more ad-hoc or are brand new, and may not have formalities documented yet. You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively. 
+We operate in working groups, to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. Our working groups have their own working agreements with meeting times decided by those who attend the working groups. Backlogs, discussions, and agile ceremonies are decided on at the group level. We have contributors from around the World. The best way to get involved is to reach out to the working group directly. 
+
+Our existing working groups are on various levels of maturity. Some have been working for months and have working agreements in place, and take detailed notes each week. Others meet more ad-hoc, and do not need a backlog to weekly meetings. Others are brand new groups, and may not have documented their processes yet. You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively. 
 
 - [OMI Weekly Meeting](https://github.com/omigroup/omigroup/discussions) - Every Wednesday 17:00UTC - 18:00 UTC (12pm - 1pm ET) (contacts: antpb for agenda, mrmetaverse for questions)
 - [Website Working Group](https://github.com/omigroup/website) - Meets every other Tuesday at 22:00UTC - 23:59 UTC (6pm - 8pm ET) (contacts: Shadow and Echoparadigm)
 - [gLTF Extensions Working Group](https://github.com/omigroup/gltf-extensions) - Meets every Thursday at 21:30UTC - 22:30UTC (5:30 - 6:30pm ET) (contact Fire or Robert)
-- [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. Meeting on Tuesdays at 23:00UTC - 23:30UTC (4:00pm PT) (contact Jeana or Nova)
+- [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. Meetings TBD (SEEKING LEAD)
 - [Scripting Working group](https://github.com/omigroup/omi-wasm-group) - formerly the WASM group, this group Meets every Tuesday at 16:00 UTC (contact Adam Frisbee, humbletim, Lyuma or Robert) 
   - Developer Happy Hour*: This modified Scripting Group Meeting occurs every other week, alternating with the scripting group regular check-ins. In the Developer Happy Hour, we meet to talk Metaverse development, demo our findings, and learn from each other. 
 - [Interoperator working group](https://github.com/omigroup/omigroup/issues/143) - This is an ad-hoc group, dedicated to exploring potential community relationships and partnerships. This group meets on the last Friday of the month for the time being.
