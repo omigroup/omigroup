@@ -54,20 +54,18 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [OMI Github Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543)
   - **Fourth Tuesday of the month at 22:05 UTC** (contact Jesse @mrmetaverse)
 - OMI co-leader monthly check in
-  - **First Friday of the month 19:00 UTC** in discord voice
+  - **First Friday of the month 19:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
 
 ### Emerging Subgroups / Calls for Participation
 - [Interim Scripting Group](https://github.com/omigroup/omi-wasm-group)
   - **Every Tuesday at 16:00 UTC** in discord voice 
     - note: currently alternates each week between Developer Happy Hours (open chat and dev demos) and semi-formal group scoping discussions
-- M3+OMI avatar-interop group
-  - proposed collab beetween OMI and M3 to help build on previous OMI-Chan Avatar group and avatar interop discussions
+- M3+OMI collaborative avatar-interop group
+  - proposed collab beetween OMI and M3 to help build on avatar interop discussions
   - (M3) **Every Tuesday at 17:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
-  - [updated discussion / proposal](https://github.com/omigroup/omi-chan/discussions/4#discussioncomment-3283773)
-  - [previous OMI-Chan Avatar Group proposal](https://github.com/omigroup/omigroup/issues/137)
 - OMI MSF Delegates group
   - proposed collab beetween OMI and the [Metaverse Standards Formum (MSF)](https://metaverse-standards.org)
-  - (tentative) **Every Tuesday at 17:30 UTC** in discord voice (contact humbletim)
+  - (tentative) **Every Tuesday at 17:30 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
 
 ### Proposed Subgroups
 - [UX Research Working Group](https://github.com/omigroup/omigroup/issues/222)
@@ -86,6 +84,9 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 ### Inactive Subgroups
 
 (reach out on discord or github if interested in helping champion these previously proposed subgroups) 
+- OMI-Chan Avatar group
+  - [updated discussion / proposal](https://github.com/omigroup/omi-chan/discussions/4#discussioncomment-3283773)
+  - [previous OMI-Chan Avatar Group proposal](https://github.com/omigroup/omigroup/issues/137)
 - Fiscal Development working group
 - Metamapping Initiative
   - [discussion thread](https://github.com/omigroup/omigroup/discussions/142)
