@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/NJtT9grz5E)
 [![Twitter Follow](https://img.shields.io/twitter/follow/open_metaverse)](https://twitter.com/open_metaverse)
 
-🗓️[OMI Calendar](#calendar)
+🗓️[OMI Calendar](#calendar) | [OMI Website](https://omigroup.org)
 
 The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals working towards this common goal. Aside from technical work, OMI aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
 
@@ -15,44 +15,21 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 - We empower the people making the metaverse.
 - We must cultivate resiliency by championing diversity, and freedom of choice.
 
-![CORE-VALUES](https://user-images.githubusercontent.com/63426722/119735871-f871d880-be4a-11eb-9594-8bf8d00c0c72.png)
-
 ## Our Vision
 >## We bolster the metaverse as an open and interoperable resource for anyone, inspired by the collaborative efforts of the community.
 
-## How To Get Involved 👈
+## Community Meetup
 
-Are you passionate about the metaverse? Join us! 
+We have a weekly meeting every Wednesday at 16:00 UTC in the omi-weekly-meeting channel of the [AngellXR / OMI Discord](https://discord.gg/NJtT9grz5E).
+Agendas and meeting notes can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
+Informal discussions also take place on discord ([join our Discord](https://discord.gg/NJtT9grz5E)).
 
->## New to our Github? check out [ OMI Github Strategy Outline](https://hackmd.io/msSrKU3NQv2QO8_aU5IhHQ?view). 
+If want to catch up on topics, ask questions, or discuss new ideas we encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMIgroup/discussions) and come to [one of our meetings](#active+subgroups)!
 
-Informal discussions are happening on discord, [join our Discord](https://discord.gg/NJtT9grz5E). However, if you want to catch up on topics, ask questions, or discuss new ideas we highly encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMIgroup/discussions), and come to [one of our meetings](#meetings). We have a shared [google calendar](https://calendar.google.com/calendar/u/1?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for tracking upcoming events. We manage meta-OMI tasks on the [omigroup/omigroup OMI General Tasks board](https://github.com/omigroup/omigroup/projects/1). We track all in-flight tickets across ALL of our working groups, on the org-wide omigroup [OMI Holistic Backlog](https://github.com/orgs/omigroup/projects/7/views/2).
+### Calendar
 
->## To submit a proposal for a specification, working group, event or other work item. Please see the [PROCESS](./PROCESS.md) document.
-
-## W3C Metaverse Interoperability Community Group
-
-We recently formed a [W3C Community Group](https://www.w3.org/community/about/) to help structure our standards work and provide ourselves a proper IP protection framework.
-
-To become a member of the W3C Metaverse Interoperability Community Group, you can [join here](https://www.w3.org/community/metaverse-interop/).
-
-### [Charter](./CHARTER.md)
-
-### Community Group Chairs
-- [Robert Long](https://twitter.com/arobertlong)
-- [Evo Heyning](https://twitter.com/amoration)
-- [Jesse Alton](https://twitter.com/mrmetaverse)
-
-### Champions
-OMI has volunteer leads involved in a variety of ways across our community. Some are working group leads, others are evangelists of interoperability eager to help you connect dots. OMI Champions can be reached in discord with `@omi-champions` user role.
-
-## Meetings
-
-We have weekly meetings on Wednesdays at 16:00 UTC (9:00 AM Pacific Time) in the omi-weekly-meeting channel of the [AngellXR Discord](https://discord.gg/NJtT9grz5E).
-
-Agendas for future and past meetings can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
-
-You can also [add our calendar](#calendar) to get notified about OMI meetings and events.
+[:calendar: View the OMI event calendar](https://calendar.google.com/calendar/embed?src=c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com).
+ics: `https://calendar.google.com/calendar/ical/c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com/public/basic.ics`
 
 ## Areas of Exploration
 
@@ -65,35 +42,62 @@ While we don't have an official scope of work for OMI set yet, here are a few ar
 - 3D Content
 - Portable Scripted Objects / Scenes
 
-## Working groups 
+## Working Groups 
 
-We operate in working groups, to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. Our working groups have their own working agreements with meeting times decided by those who attend the working groups. Backlogs, discussions, and agile ceremonies are decided on at the group level. We have contributors from around the World. The best way to get involved is to reach out to the working group directly. 
+We look to dedicated subgroups to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. One of the best ways to get involved is to reach out to these working groups directly (many have dedicated discussion channels in discord as well as github repos). You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively.
 
-Our existing working groups are on various levels of maturity. Some have been working for months and have working agreements in place, and take detailed notes each week. Others meet more ad-hoc, and do not need a backlog to weekly meetings. Others are brand new groups, and may not have documented their processes yet. You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively. 
+### Active Subgroups
+- [OMI Community](https://github.com/omigroup/omigroup/discussions)
+  - **Every Wednesday at 16:00 UTC** in discord voice (contacts: antpb for agenda, mrmetaverse for questions)
+- [gLTF Extensions Group](https://github.com/omigroup/gltf-extensions)
+  - **Every Thursday at 21:30 UTC** in discord voice (contact Fire or Robert)
+- [OMI Github Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543)
+  - **Fourth Tuesday of the month at 22:05 UTC** (contact Jesse @mrmetaverse)
+- OMI co-leader monthly check in
+  - **First Friday of the month 19:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
 
-- [OMI Weekly Meeting](https://github.com/omigroup/omigroup/discussions) - Every Wednesday 17:00UTC - 18:00 UTC (12pm - 1pm ET) (contacts: antpb for agenda, mrmetaverse for questions)
-- [Website Working Group](https://github.com/omigroup/website) - Meets every other Tuesday at 22:00UTC - 23:59 UTC (6pm - 8pm ET) (contacts: Shadow and Echoparadigm)
-- [gLTF Extensions Working Group](https://github.com/omigroup/gltf-extensions) - Meets every Thursday at 21:30UTC - 22:30UTC (5:30 - 6:30pm ET) (contact Fire or Robert)
-- [OMI-Chan Avatar Working Group](https://github.com/omigroup/omi-chan) - OMI-Chan is a virtual mascot for the OMI group as well as a avatar asset for demonstrating the standards being developed. Meetings TBD (SEEKING LEAD)
-- [Scripting Working group](https://github.com/omigroup/omi-wasm-group) - formerly the WASM group, this group Meets every Tuesday at 16:00 UTC (contact Adam Frisbee, humbletim, Lyuma or Robert) 
-  - Developer Happy Hour*: This modified Scripting Group Meeting occurs every other week, alternating with the scripting group regular check-ins. In the Developer Happy Hour, we meet to talk Metaverse development, demo our findings, and learn from each other. 
-- [Interoperator working group](https://github.com/omigroup/omigroup/issues/143) - This is an ad-hoc group, dedicated to exploring potential community relationships and partnerships. This group meets on the last Friday of the month for the time being.
-- [Content and Media Strategy Working Group](https://github.com/omigroup/media) - This is a new group dedicated to content strategy, and being intentional in how we communicate OMI efforts and bolster the Open Metaverse. Meeting on the second Tuesday every month at 15:30 - 16:30 UTC (24:00 Format)
-- Fiscal Development working group - No regular meeting yet, but to get involved please contact Evo. 
-- Metamapping Initiative - No regular meeting yet, but to get involved please contact Evo. 
-- Metaverse Traversal - No regular meeting yet, but to get involved please contat Evo. 
-- OMI Github [Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543): Meets the fourth Tuesday of every month at 22:05 - 22:50 UTC (contact Jesse @mrmetaverse)
+### Emerging Subgroups / Calls for Participation
+- [Interim Scripting Group](https://github.com/omigroup/omi-wasm-group)
+  - **Every Tuesday at 16:00 UTC** in discord voice 
+    - note: currently alternates each week between Developer Happy Hours (open chat and dev demos) and semi-formal group scoping discussions
+- M3+OMI collaborative avatar-interop group
+  - proposed collab beetween OMI and M3 to help build on avatar interop discussions
+  - (M3) **Every Tuesday at 17:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
+- OMI MSF Delegates group
+  - proposed collab beetween OMI and the [Metaverse Standards Formum (MSF)](https://metaverse-standards.org)
+  - (tentative) **Every Tuesday at 17:30 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
 
-### Requirements to form a working group 
+### Proposed Subgroups
+- [UX Research Working Group](https://github.com/omigroup/omigroup/issues/222)
+  - proposed to understand the existing experiences of Metaverse users, research their needs and pain points, and identify new path and opportunities. 
+  - currently looking for volunteers to help champion
+- [Portals Working Group](https://github.com/omigroup/omigroup/issues/209)
+  - proposed group for the discovery, experimentation, and delivery of protocols enabling portals in the Metaverse
+  - currently looking for volunteers to help champion
+- [Interoperator group](https://github.com/omigroup/omigroup/issues/143)
+  - proposed ad-hoc group dedicated to exploring potential community relationships and partnerships
+  - currently looking for volunteers to help champion
+- [OMI Content and Media Strategy](https://github.com/omigroup/media)
+  - proposed ad-hoc group dedicated to content strategy and being intentional in how we communicate OMI efforts
+  - currently looking for volunteers to help champion
 
-Interested in how working groups form and operate at OMI? Please see [WORKING-GROUP-MIN-REQUIREMENTS.md](./WORKING-GROUP-MIN-REQUIREMENTS.md)
+### Inactive Subgroups
 
-### Calendar
+(reach out on discord or github if interested in helping champion these previously proposed subgroups) 
+- OMI-Chan Avatar group
+  - [updated discussion / proposal](https://github.com/omigroup/omi-chan/discussions/4#discussioncomment-3283773)
+  - [previous OMI-Chan Avatar Group proposal](https://github.com/omigroup/omigroup/issues/137)
+- Fiscal Development working group
+- Metamapping Initiative
+  - [discussion thread](https://github.com/omigroup/omigroup/discussions/142)
+- Metaverse Traversal
 
-[:calendar: View the OMI event calendar](https://calendar.google.com/calendar/embed?src=c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com).
+## W3C Community Group
 
-You can subscribe with [Google Calendar](https://calendar.google.com/calendar/u/4?cid=Y18wZHB1Z2Y5ZjgzZXE0cWVrbWI2b21xYmptZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), or using this calendar URL: 
-`https://calendar.google.com/calendar/ical/c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com/public/basic.ics`
+To help structure our technical standards work and provide an IP protection framework we have formed a [W3C Community Group](https://www.w3.org/community/about/): 
+- Metaverse Interoperability [metaverse-interop](https://www.w3.org/community/metaverse-interop/)
+- [Group Charter](./CHARTER.md)
+- Group Chairs: [Robert Long](https://twitter.com/arobertlong) | [Jesse Alton](https://twitter.com/mrmetaverse) | [Evo Heyning](https://twitter.com/amoration)
 
 ## FAQ
 
