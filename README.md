@@ -64,7 +64,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
   - proposed collab beetween OMI and M3 to help build on avatar interop discussions
   - (M3) **Every Tuesday at 17:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
 - OMI MSF Delegates group
-  - proposed collab beetween OMI and the [Metaverse Standards Formum (MSF)](https://metaverse-standards.org)
+  - proposed collab beetween OMI and the [Metaverse Standards Forum (MSF)](https://metaverse-standards.org)
   - (tentative) **Every Tuesday at 17:30 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
 
 ### Proposed Subgroups
