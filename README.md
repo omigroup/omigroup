@@ -58,14 +58,14 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 
 ### Emerging Subgroups / Calls for Participation
 - [Interim Scripting Group](https://github.com/omigroup/omi-wasm-group)
-  - **Every Thursday at 17:00 UTC** in discord voice 
+  - **Every Tuesday at 16:00 UTC** in discord voice 
     - note: currently alternates each week between Developer Happy Hours (open chat and dev demos) and semi-formal group scoping discussions
 - M3+OMI collaborative avatar-interop group
   - proposed collab beetween OMI and M3 to help build on avatar interop discussions
   - (M3) **Every Tuesday at 17:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
 - OMI MSF Delegates group
   - proposed collab beetween OMI and the [Metaverse Standards Forum (MSF)](https://metaverse-standards.org)
-  - (tentative) **Every Wednesday at 15:00 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
+  - (tentative) **Every Tuesday at 17:30 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
 
 ### Proposed Subgroups
 - [UX Research Working Group](https://github.com/omigroup/omigroup/issues/222)
