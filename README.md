@@ -74,9 +74,6 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [Portals Working Group](https://github.com/omigroup/omigroup/issues/209)
   - proposed group for the discovery, experimentation, and delivery of protocols enabling portals in the Metaverse
   - currently looking for volunteers to help champion
-- [Interoperator group](https://github.com/omigroup/omigroup/issues/143)
-  - proposed ad-hoc group dedicated to exploring potential community relationships and partnerships
-  - currently looking for volunteers to help champion
 - [OMI Content and Media Strategy](https://github.com/omigroup/media)
   - proposed ad-hoc group dedicated to content strategy and being intentional in how we communicate OMI efforts
   - currently looking for volunteers to help champion
@@ -91,6 +88,9 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - Metamapping Initiative
   - [discussion thread](https://github.com/omigroup/omigroup/discussions/142)
 - Metaverse Traversal
+- [Interoperator group](https://github.com/omigroup/omigroup/issues/143)
+  - originally proposed ad-hoc group dedicated to exploring potential community relationships and partnerships
+  - satisfied now by the efforts of the `omi-champions` and the `msf-delegates` (and potentially future delegates to other groups as well). 
 
 ## W3C Community Group
 
