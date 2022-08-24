@@ -9,7 +9,7 @@ We operate in working groups, to divide work based on themes of interest and ava
 - Once approved an OMI admin will create a repo `omigroup/yournewgroup`
   - They can use this template [omigroup/working-group-template](https://github.com/omigroup/working-group-template)
 - Create basic readme with: What this group is, when you meet, how to get involved. 
-- Create backlog in your repo for tracking potential work, active work, and reminders. This helps people get involved and work async in between meetings, and to ensure we call out blockers and don't lose sight of previous commitments (Assistance available to set this up) 
+- Decide on if you want a backlog in your repo for tracking potential work, active work, and reminders for your working group. This helps people get involved and work async in between meetings, and to ensure we call out blockers and don't lose sight of previous commitments (Assistance available to set this up) 
 - Publish a link to the groups repo and their meeting times on the main [omigroup/omigroup](https://github.com/omigroup/omigroup) readme 
 - If 2 consecutive meetings go unattended then the group enters inactive status. This allows others to know they can get involved and pick up where the group left off while ensuring we don't repeat past efforts. 
 
