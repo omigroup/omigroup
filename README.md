@@ -58,7 +58,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [OMI Content and Media Strategy](https://github.com/omigroup/media)
   - proposed ad-hoc group dedicated to content strategy and being intentional in how we communicate OMI efforts
   - currently looking for volunteers to help champion
-- OMI MSF Delegates group
+- [OMI MSF Delegates](https://github.com/omigroup/msf-delegates) group
   - proposed collab beetween OMI and the [Metaverse Standards Forum (MSF)](https://metaverse-standards.org)
   - (tentative) **Every Wednesday at 15:00 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
 
