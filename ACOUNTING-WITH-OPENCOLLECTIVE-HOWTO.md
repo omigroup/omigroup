@@ -1,5 +1,6 @@
-# Process for submitting receipts to Open Collective
+# This is the process for submitting receipts to Open Collective
 
+I will update as I learn more. 
 
 [collaborate on hackmd](https://hackmd.io/I3FoAArATGSanumVngOtgQ)
 
