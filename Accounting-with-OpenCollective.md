@@ -1,5 +1,8 @@
 # Process for submitting receipts to Open Collective
 
+[![hackmd-github-sync-badge](https://hackmd.io/I3FoAArATGSanumVngOtgQ/badge)](https://hackmd.io/I3FoAArATGSanumVngOtgQ)
+
+
 Sometimes we get an email like this on admin@omigroup, that requires that we upload receipts for expenses from our Open Collective account. 
 
 ![](https://hackmd.io/_uploads/ByG6jrfbj.png)
