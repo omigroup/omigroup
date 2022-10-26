@@ -1,6 +1,6 @@
 ---
 name: Call for Participation
-about: Propose a new community group.
+about: Propose a new community effort or working group.
 title: ''
 labels: Call for Participation
 assignees: ''
