@@ -53,7 +53,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
   - **Every Thursday at 22:30 UTC** in discord voice (contact Fire or Robert)
 - [OMI Github Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543)
   - **Fourth Tuesday of the month at 23:05 UTC** (contact Jesse @mrmetaverse)
-- OMI co-leader monthly check in
+- OMI leads monthly check in
   - **First Friday of the month 20:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
 - [OMI Content and Media Strategy](https://github.com/omigroup/media)
   - proposed ad-hoc group dedicated to content strategy and being intentional in how we communicate OMI efforts
@@ -61,12 +61,12 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [OMI MSF Delegates](https://github.com/omigroup/msf-delegates) group
   - proposed collab beetween OMI and the [Metaverse Standards Forum (MSF)](https://metaverse-standards.org)
   - (tentative) **Every Wednesday at 16:00 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
-- [NEW: UX Research Group](https://github.com/omigroup/ux-research)  
+- [UX Research Group](https://github.com/omigroup/ux-research)  
   - newly formed to understand the existing experiences of Metaverse users, research their needs and pain points, and identify new path and opportunities for interoperability.
   - currently looking for volunteers to help kickoff - meeting next on 11/14/22 at 17:00 UTC
-- [Interim Scripting Group](https://github.com/omigroup/omi-wasm-group)
+- [Scripting Group](https://github.com/omigroup/omi-wasm-group)
   - **Every Thursday at 18:00 UTC** in discord voice 
-    - note: currently alternates each week between Developer Happy Hours (open chat and dev demos) and semi-formal group scoping discussions
+    - note: every other week we have developer hour, which is now hosted in the ThirdRoom Matrix channels.
 - M3+OMI collaborative avatar-interop group
   - proposed collab beetween OMI and M3 to help build on avatar interop discussions
   - (M3) **Every Tuesday at 18:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
@@ -89,6 +89,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [Interoperator group](https://github.com/omigroup/omigroup/issues/143)
   - originally proposed ad-hoc group dedicated to exploring potential community relationships and partnerships
   - satisfied now by the efforts of the `omi-champions` and the `msf-delegates` (and potentially future delegates to other groups as well). 
+- OMI Developer Hour moved to ThirdRoom. 
 
 ## W3C Community Group
 
