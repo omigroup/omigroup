@@ -49,21 +49,24 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 ### Active Subgroups
 - [OMI Community](https://github.com/omigroup/omigroup/discussions)
   - **Every Wednesday at 17:00 UTC** in discord voice (contacts: antpb for agenda, mrmetaverse for questions)
-- [gLTF Extensions Group](https://github.com/omigroup/gltf-extensions)
+- [glTF Extensions Group](https://github.com/omigroup/gltf-extensions)
   - **Every Thursday at 22:30 UTC** in discord voice (contact Fire or Robert)
 - [OMI Github Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543)
   - **Fourth Tuesday of the month at 23:05 UTC** (contact Jesse @mrmetaverse)
 - OMI leads monthly check in
   - **First Friday of the month 20:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
-- [OMI Content and Media Strategy](https://github.com/omigroup/media)
-  - proposed ad-hoc group dedicated to content strategy and being intentional in how we communicate OMI efforts
+- [OMI Content and Media Strategy (and events!)](https://github.com/omigroup/media)
+  - Group dedicated to content strategy and being intentional in how we communicate OMI efforts
+  - Note: This May split into separate groups (Content, Media, Events)
+  - Media and Content: Discussion in OMI-Media channels on discord 
+  - Events: Discussion in the OMI-Events Pro-Tem discord channel. 
   - currently looking for volunteers to help champion
 - [OMI MSF Delegates](https://github.com/omigroup/msf-delegates) group
-  - proposed collab beetween OMI and the [Metaverse Standards Forum (MSF)](https://metaverse-standards.org)
-  - (tentative) **Every Wednesday at 16:00 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim)
+  - proposed collab between OMI and the [Metaverse Standards Forum (MSF)](https://metaverse-standards.org)
+  - (tentative) **Every Wednesday at 16:00 UTC** in [#msf-delegates](https://discord.com/channels/770382203782692945/1000781076463112234) (contact humbletim, avatarjoy, funksoup)
 - [UX Research Group](https://github.com/omigroup/ux-research)  
   - newly formed to understand the existing experiences of Metaverse users, research their needs and pain points, and identify new path and opportunities for interoperability.
-  - currently looking for volunteers to help kickoff - meeting next on 11/14/22 at 17:00 UTC
+  - documented our initial thoughts on our github, this group meets on discord in the #OMI-UX-Research channel. 
 - [Scripting Group](https://github.com/omigroup/omi-wasm-group)
   - **Every Thursday at 18:00 UTC** in discord voice 
     - note: every other week we have developer hour, which is now hosted in the ThirdRoom Matrix channels.
@@ -71,10 +74,13 @@ We look to dedicated subgroups to divide work based on themes of interest and av
   - proposed collab beetween OMI and M3 to help build on avatar interop discussions
   - (M3) **Every Tuesday at 18:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
 
-### Proposed Subgroups
+### Ad-hoc Subgroups
 - [Portals Working Group](https://github.com/omigroup/omigroup/issues/209)
   - proposed group for the discovery, experimentation, and delivery of protocols enabling portals in the Metaverse
-  - currently looking for volunteers to help champion
+  - Currently consists of portal crawls and explorations in the OMI #hack-together discord channel, and with M3
+
+### Proposed Subgroups
+
 
 ### Inactive Subgroups
 
