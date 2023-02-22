@@ -67,23 +67,24 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [UX Research Group](https://github.com/omigroup/ux-research)  
   - newly formed to understand the existing experiences of Metaverse users, research their needs and pain points, and identify new path and opportunities for interoperability.
   - documented our initial thoughts on our github, this group meets on discord in the #OMI-UX-Research channel. 
-- [Scripting Group](https://github.com/omigroup/omi-wasm-group)
-  - **Every Thursday at 18:00 UTC** in discord voice 
-    - note: every other week we have developer hour, which is now hosted in the ThirdRoom Matrix channels.
 - M3+OMI collaborative avatar-interop group
   - proposed collab beetween OMI and M3 to help build on avatar interop discussions
   - (M3) **Every Tuesday at 18:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
 
 ### Ad-hoc Subgroups
-- [Portals Working Group](https://github.com/omigroup/omigroup/issues/209)
-  - proposed group for the discovery, experimentation, and delivery of protocols enabling portals in the Metaverse
-  - Currently consists of portal crawls and explorations in the OMI #hack-together discord channel, and with M3
+- [Portals Working Group Pro Tem](https://github.com/omigroup/omigroup/issues/209)
+  - this is now active! Meeting in #omi-portals-pro-tem channel. 
+- Events Pro Tem - We aremeeting in #omi-events-pro-tem to plan OMI100 and more! 
+
 
 ### Proposed Subgroups
+- OMI Experimentation Hour 
 
 
 ### Inactive Subgroups
-
+- [Scripting Group](https://github.com/omigroup/omi-wasm-group)
+  - **Every Thursday at 18:00 UTC** in discord voice 
+    - note: every other week we have developer hour, which is now hosted in the ThirdRoom Matrix channels.
 (reach out on discord or github if interested in helping champion these previously proposed subgroups) 
 - OMI-Chan Avatar group
   - [updated discussion / proposal](https://github.com/omigroup/omi-chan/discussions/4#discussioncomment-3283773)
