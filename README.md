@@ -78,7 +78,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 
 
 ### Proposed Subgroups
-- OMI Experimentation Hour 
+- OMI Experimentation Hour - https://github.com/omigroup/omigroup/issues/368
 
 
 ### Inactive Subgroups
