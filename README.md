@@ -85,9 +85,6 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 
 ### Inactive Subgroups
 - [Scripting Group](https://github.com/omigroup/omi-wasm-group)
-  - **Every Thursday at 18:00 UTC** in discord voice 
-    - note: every other week we have developer hour, which is now hosted in the ThirdRoom Matrix channels.
-(reach out on discord or github if interested in helping champion these previously proposed subgroups) 
 - OMI-Chan Avatar group
   - [updated discussion / proposal](https://github.com/omigroup/omi-chan/discussions/4#discussioncomment-3283773)
   - [previous OMI-Chan Avatar Group proposal](https://github.com/omigroup/omigroup/issues/137)
