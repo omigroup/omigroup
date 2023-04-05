@@ -52,7 +52,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 - [glTF Extensions Group](https://github.com/omigroup/gltf-extensions)
   - **Every Thursday at 21:30 UTC** in discord voice (contact Fire or Robert)
 - [OMI Github Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543)
-  - **Second Thursday of the month at 22:05 UTC** (contact Jesse @mrmetaverse)
+  - **Second Thursday of the month at 21:05 UTC** (contact Jesse @mrmetaverse)
 - OMI leads monthly check in
   - **First Friday of the month 19:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
 - [OMI Content and Media Strategy (and events!)](https://github.com/omigroup/media)
