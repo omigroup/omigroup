@@ -75,12 +75,12 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 ### Ad-hoc Subgroups
 - [Portals Working Group Pro Tem](https://github.com/omigroup/omigroup/issues/209)
   - this is now active! Meeting in #omi-portals-pro-tem channel. 
-- Events Pro Tem - We aremeeting in #omi-events-pro-tem to plan OMI100 and more! 
-
+- Events Pro Tem - We aremeeting in #omi-events-pro-tem to plan OMI100 and more!
+- OMI Experiments - https://github.com/omigroup/omigroup/issues/368
 
 ### Proposed Subgroups
-- OMI Experimentation Hour - https://github.com/omigroup/omigroup/issues/368
-- [OMI-AI](https://github.com/omigroup/omigroup/issues/372) proposed working group for AI and the Metaverse. 
+- [OMI-AI](https://github.com/omigroup/omigroup/issues/372) proposed working group for AI and the Metaverse.
+  - currently active inside of OMI-Experiments    
 
 
 ### Inactive Subgroups
