@@ -48,13 +48,13 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 
 ### Active Subgroups
 - [OMI Community](https://github.com/omigroup/omigroup/discussions)
-  - **Every Wednesday at 16:00 UTC** in discord voice (contacts: antpb for agenda, mrmetaverse for questions)
+  - **Every Wednesday at 17:00 UTC** in discord voice (contacts: antpb for agenda, mrmetaverse for questions)
 - [glTF Extensions Group](https://github.com/omigroup/gltf-extensions)
-  - **Every Thursday at 21:30 UTC** in discord voice (contact Fire or Robert)
+  - **Every Thursday at 22:30 UTC** in discord voice (contact Fire or Robert)
 - [OMI Github Backlog Refinement](https://github.com/orgs/omigroup/projects/2#card-75916543)
-  - **Second Thursday of the month at 21:05 UTC** (contact Jesse @mrmetaverse)
+  - **Second Thursday of the month at 22:05 UTC** (contact Jesse @mrmetaverse)
 - OMI leads monthly check in
-  - **First Friday of the month 19:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
+  - **First Friday of the month 20:00 UTC** in [#omi-champions](https://discord.com/channels/770382203782692945/966361749982969946)
 - [OMI Content and Media Strategy (and events!)](https://github.com/omigroup/media)
   - Group dedicated to content strategy and being intentional in how we communicate OMI efforts
   - Note: This May split into separate groups (Content, Media, Events)
@@ -70,7 +70,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
   - group is seeking active leadership/coordination. Want to get involved? Just reach out in the discord channel #omi-ux
 - M3+OMI collaborative avatar-interop group
   - proposed collab beetween OMI and M3 to help build on avatar interop discussions
-  - (M3) **Every Tuesday at 17:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
+  - (M3) **Every Tuesday at 18:00 UTC** in M3 Discord / hubs (see [M3-org/avatar-interop](https://github.com/M3-org/avatar-interop#calendar) calendar)
 
 ### Ad-hoc Subgroups
 - [Portals Working Group Pro Tem](https://github.com/omigroup/omigroup/issues/209)
@@ -102,7 +102,7 @@ We look to dedicated subgroups to divide work based on themes of interest and av
 To help structure our technical standards work and provide an IP protection framework we have formed a [W3C Community Group](https://www.w3.org/community/about/): 
 - Metaverse Interoperability [metaverse-interop](https://www.w3.org/community/metaverse-interop/)
 - [Group Charter](./CHARTER.md)
-- Group Chairs: [Robert Long](https://twitter.com/arobertlong) | [Jesse Alton](https://twitter.com/mrmetaverse) | [Evo Heyning](https://twitter.com/amoration)
+- Group Chairs: [Jesse Alton - mrmetaverse](https://twitter.com/mrmetaverse) | [Bernelle - IndieBio](https://twitter.com/indiebio)
 
 ## FAQ
 
