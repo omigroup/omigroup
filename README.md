@@ -106,6 +106,10 @@ To help structure our technical standards work and provide an IP protection fram
 
 ## FAQ
 
+### What is the metaverse?
+
+Ha! We're not going to fall into that trap. Rather, whatever the metaverse means to you, you're welcome here. How about unpacking your vision of the metaverse through a through a [guided self-interview](https://discord.com/channels/887789163045335081/1349928491206049824)? Afterwards (and only once you have formed your own opinions!) have a look at what some of our members think about the metaverse, and feel free to share yours, if you want to: [Metaverse Self-Interview Results](https://discord.com/channels/887789163045335081/1349927403345940490)
+
 ### Are you really trying to build the Metaverse?
 
 No. Any one group, be it a company or organization cannot build the metaverse. With OMI we hope to form consensus around ways we can turn siloed virtual worlds into a network of interoperable worlds. People have very different ideas of what their worlds should look like and how they should operate. It's not our job to tell them how to create their worlds. We aim to bring world builders together and create protocols so that traversing the metaverse is as seamless as possible.
