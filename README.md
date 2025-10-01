@@ -5,7 +5,9 @@
 
 🗓️[OMI Calendar](#calendar) | [OMI Website](https://omigroup.org)
 
-The Open Metaverse Interoperability Group is focused on bridging virtual worlds by designing and promoting protocols for identity, social graphs, inventory, and more. Our members include businesses and individuals working towards this common goal. Aside from technical work, OMI aims to create a community of artists, creators, developers, and other innovators to discuss and explore concepts surrounding the design and development of virtual worlds.
+The Open Metaverse Interoperability Group is focused on bridging cultures, interests, technical and organisational areas as it concerns the metaverse. 
+
+We bolster the community-building projects that seek to define and build the metaverse (or related things) as an open and interoperable entity. Whatever the metaverse means to you, you are welcome here. 
 
 ## OMI Core Values
 
@@ -15,14 +17,11 @@ The Open Metaverse Interoperability Group is focused on bridging virtual worlds 
 - We empower the people making the metaverse.
 - We must cultivate resiliency by championing diversity, and freedom of choice.
 
-## Our Vision
->## We bolster the metaverse as an open and interoperable resource for anyone, inspired by the collaborative efforts of the community.
-
 ## Community Meetup
 
-We have a weekly meeting every Tuesday at 16:00 UTC in the omi-weekly-meeting channel of the [OMI Discord](https://discord.gg/Wqt4ZC4zjF).
+We have a weekly meeting every Tuesday at 16:00 UTC (17:00 UTC in winter) in the omi-weekly-meeting channel of the [OMI Discord](https://discord.gg/Wqt4ZC4zjF).
 Agendas and meeting notes can be found in [GitHub Discussions](https://github.com/omigroup/omigroup/discussions/categories/weekly-meetings).
-Informal discussions also take place on discord ([join our Discord](https://discord.gg/Wqt4ZC4zjF)
+Informal discussions mainly take place on our [discord](https://discord.gg/Wqt4ZC4zjF)
 
 If want to catch up on topics, ask questions, or discuss new ideas we encourage you contribute to our [GitHub Discussions](https://github.com/omigroup/OMIgroup/discussions) and come to [one of our meetings](#active+subgroups)!
 
@@ -31,30 +30,22 @@ If want to catch up on topics, ask questions, or discuss new ideas we encourage 
 [:calendar: View the OMI event calendar](https://calendar.google.com/calendar/embed?src=c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com).
 ics: `https://calendar.google.com/calendar/ical/c_0dpugf9f83eq4qekmb6omqbjmg%40group.calendar.google.com/public/basic.ics`
 
-## Areas of Exploration
-
-While we don't have an official scope of work for OMI set yet, here are a few areas we are looking into.
-
-- Identity
-- Friends List / Social Graph
-- Inventory / Trading Virtual Items
-- Avatars
-- 3D Content
-- Portable Scripted Objects / Scenes
-
-## Working Groups 
-
-We look to dedicated subgroups to divide work based on themes of interest and availability. If the Metaverse is for anyone, we believe that anyone can add value to the Metaverse. One of the best ways to get involved is to reach out to these working groups directly (many have dedicated discussion channels in discord as well as github repos). You are encouraged to get involved with any group that fits your knowledge, skills, abilities, and interests, and help shape the culture of that working group collectively.
-
-### Active Subgroups
+## Active Working Groups
+Our groups bridge technical, social and organisational aspects. We collaborate with other metaverse organisations, with our niche being on grassroots efforts and a commitment to open ecosystems. 
 - [OMI Community](https://github.com/omigroup/omigroup/discussions)
-  - **Every Tuesday at 17:00 UTC** in discord voice (contact indiebio or ask in the #general channel on Discord)
+  - **Every Tuesday at 16:00 UTC** (17:00 UTC in winter) in discord voice (contact indiebio or ask in the #general channel on Discord)
 - [glTF Extensions Group](https://github.com/omigroup/gltf-extensions)
-  - **Every Thursday at 17:00 UTC** in discord voice (contact Aaron)
+  - **Every Thursday at 16:00 UTC** (17:00 UTC in winter) in discord voice (contact Aaron)
 - [OMI Curator group](https://discord.gg/K2U7AMHZR9)
-  - **Every Wednesday at 17:00 UTC** in discord voice (contact jimmy or indiebio). This group is dedicated to content strategy and being intentional in how we communicate OMI efforts, as well as building relationships with the larger metaverse ecosystem.
+  - **Every Wednesday at 16:00 UTC** (17:00 UTC in winter) in discord voice (contact jimmy or indiebio). This group is dedicated to content strategy and being intentional in how we communicate OMI efforts, as well as building relationships with the larger metaverse ecosystem.
 - OMI casual catch up
-  - **Every Friday 20:00 UTC** in discord voice (contact indiebio or humbletim)
+  - **Every Friday 21:00 UTC** (still 21:00 UTC in winter) in discord voice (contact indiebio or humbletim)
+
+### Future groups planned:
+- physical world interoperability
+Aspects of the physical world interoperability group includes immersive games, incorporating physical world assets into games, digital twins and geospatial related work. Currently this group exists as a [Discord forum post](https://discord.com/channels/887789163045335081/1344003597528076340). It is supported by an EU funded project building a human-centric digital twin for water management - [AquaSavvy](https://aquasavvy.eu/).
+- convergence cultures
+The convergence cultures group is concerned with online communities that bridge games or platforms. Using the term coined by [Henry Jenkins](https://en.wikipedia.org/wiki/Convergence_culture), convergence culture relates to participatory culture, collective intelligence and a converging technological environment. Currently this group exists as a [Discord forum post](https://discord.com/channels/887789163045335081/1344002958911733760), pending members.
 
 ## W3C Community Group
 HELP NEEDED for coordination with W3C, see W3C [community group program CG](https://github.com/omigroup/omigroup/discussions/557#discussioncomment-14565168)
